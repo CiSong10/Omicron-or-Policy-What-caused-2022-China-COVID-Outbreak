@@ -41,7 +41,7 @@ so they are not the reason of the local case outbreak
 
 Ci 'Charles' Song - songsc@umich.edu
 
-<span style="color:gray"> MS Student, School of Information, University of Michigan. </span>
+<span style="color:grey"> MS Student, School of Information, University of Michigan. </span>
 
 This is my course project of SI 618: Data Manipulation and Analysis.
 
