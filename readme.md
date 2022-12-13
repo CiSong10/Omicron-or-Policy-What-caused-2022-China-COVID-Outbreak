@@ -41,10 +41,10 @@ so they are not the reason of the local case outbreak
 
 Ci 'Charles' Song - songsc@umich.edu
 
-<span style="color: grey"> MS Student, School of Information, University of Michigan. </span>
+MS Student, School of Information, University of Michigan.
 
 This is my course project of SI 618: Data Manipulation and Analysis.
 
 ## Acknowledgement
 
-The NHC crawler code is originally from 机灵鹤(2021),[Python网络爬虫实战：爬取卫健委官网文章](https://juejin.cn/post/6996985734854869000)
+The NHC crawler code is originally from 机灵鹤 (2021), [Python网络爬虫实战：爬取卫健委官网文章](https://juejin.cn/post/6996985734854869000)
