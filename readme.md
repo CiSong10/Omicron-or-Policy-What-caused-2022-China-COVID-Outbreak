@@ -1,6 +1,6 @@
-# Omicron or Policy: What caused 2022 China COVID outbreak?
+# Omicron or Policy: What caused the 2022 China COVID outbreak?
 
-This project crawled covid case data from China Nathional Health Commission, including "local new cases" and "imported new cases" from Oct 2020 to Dec 2022.
+This project crawled covid case data from China's National Health Commission, including "local new cases" and "imported new cases" from Oct 2020 to Dec 2022.
 
 Data analyses are conducted to find out the reason of China's COVID case increase in 2022.
 
